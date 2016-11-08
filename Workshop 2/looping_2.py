@@ -1,9 +1,9 @@
 ''' Write a loop that returns the sum of the next ten numbers of a seed number.
 Test Suite:
 inputs:		output:		domain:
-3			1 3 		Positive Integers
-0						Zero (border case)
--5						We won't deal with these either, lol '''
+3		1 3 		Positive Integers
+0				Zero (border case)
+-5				We won't deal with these either, lol '''
 
 
 # Getting a number from the user
