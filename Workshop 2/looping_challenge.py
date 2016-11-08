@@ -2,8 +2,8 @@
 This is the OEIS sequence # A000045
 Test Suite:
 inputs:		output:				domain:
-3			0 1 1 				third term of Fibonacci sequence
-0								zeroth term as we define it, is null'''
+3		0 1 1	 			third term of Fibonacci sequence
+0						zeroth term as we define it, is null'''
 
 # get user input
 term = int(input("Enter a term:"))
