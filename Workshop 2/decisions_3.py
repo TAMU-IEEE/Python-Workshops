@@ -2,9 +2,9 @@
 
 Test Suite:
 inputs:		outputs:	domain:
--3			3			Negative integers
-0			0			Zero (border case)
-9			9			Positive integers '''
+-3		3		Negative integers
+0		0		Zero (border case)
+9		9		Positive integers '''
 
 number = int(input("Enter a number:"))
 
