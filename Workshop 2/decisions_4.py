@@ -2,10 +2,10 @@
 
 Test Suite:
 inputs:			outputs:		domain:
-2, 1, +			3				addition (order does not matter)
-2, 1, -			1				subtraction (second from first)
-2, 1, *			2				multiplication (order does not matter)
-2, 1, /			2				division (first by second) '''
+2, 1, +			3			addition (order does not matter)
+2, 1, -			1			subtraction (second from first)
+2, 1, *			2			multiplication (order does not matter)
+2, 1, /			2			division (first by second) '''
 
 # lets get some inputs
 num1 = int(input("Enter the first operand:"))
