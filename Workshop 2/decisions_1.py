@@ -1,9 +1,9 @@
 ''' Gets two numbers from the user and returns the larger number of the two.
 Test Suite:
 inputs:		output:		domain:
-1, 2		2			Integers greater than 0
-0, 0 		0			Integers that are equal (border case)
--1, 1		1			Integers less than 0 '''
+1, 2		2		Integers greater than 0
+0, 0 		0		Integers that are equal (border case)
+-1, 1		1		Integers less than 0 '''
 
 
 # Getting a couple of numbers from the user
