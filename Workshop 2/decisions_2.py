@@ -3,12 +3,12 @@
 
 Test Suite:
 inputs:		outputs:	domain:
--7			"yes"		Negative factors
-1			"no"		Positive integers, nonfactors
-0			"no"		Zero (border case)
-4			"yes"		Positive integers, factors of 4
-7			"yes"		Positive integers, factors of 7
-28			"yes"		Positive integers, factors of both (border case) '''
+-7		"yes"		Negative factors
+1		"no"		Positive integers, nonfactors
+0		"no"		Zero (border case)
+4		"yes"		Positive integers, factors of 4
+7		"yes"		Positive integers, factors of 7
+28		"yes"		Positive integers, factors of both (border case) '''
 
 # Get input from the user
 number = int(input("Enter a number to check:"))
