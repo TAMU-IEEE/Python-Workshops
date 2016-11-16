@@ -1,4 +1,8 @@
-'''Write a function that returns two given strings in alphabetical order.'''
+'''Write a function that returns two given strings in alphabetical order.
+Test suite:
+input:				output:				domain:
+"hi", "man"			"hi man"			ordered
+"zz", "aa"			"aa zz"				unordered '''
 
 # think about how we compare characters and their hidden ascii value!
 def alphabetizeMe(string1, string2):

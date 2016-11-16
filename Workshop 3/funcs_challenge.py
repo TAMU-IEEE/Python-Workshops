@@ -1,5 +1,10 @@
 '''Write a function that determines whether a given string 
-   is a palindrome (can be read the same forwards and backwards)'''
+   is a palindrome (can be read the same forwards and backwards)
+   
+   Test suite:
+   input:				output:				domain:
+   "redivider"			True				palindomes
+   "onealio"			False				non-palindromes   '''
 
 def isPalindrome(testString):
 	result = ''
