@@ -3,8 +3,8 @@
    
    Test suite:
    input:				output:				domain:
-   "redivider"			True				palindomes
-   "onealio"			False				non-palindromes   '''
+   "redivider"				True				palindomes
+   "onealio"				False				non-palindromes   '''
 
 def isPalindrome(testString):
 	result = ''
